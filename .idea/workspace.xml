@@ -2,48 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2dbf6f6e-b8d5-4487-bb2e-41e6ee5c901c" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/entity/PositionInfo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/util/AmountUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/util/AnnotationUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/util/CharsetUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/util/CommonUtil.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/util/ConvertUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/util/CookieUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/util/DateFormatUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/util/DateUtil.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/util/DateUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/util/Encodes.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/util/EncryptUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/util/ExcelUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/util/Exceptions.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/util/FileUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/util/IPUtil.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/util/IPUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/util/IdWorker.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/util/JacksonUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/util/JsonUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/util/LatitudeLontitudeUtil.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/util/ListSorter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/util/LngLatDistanceUtil.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/util/MathUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/util/MonthUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/util/PathUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/util/RedisTemplateUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/util/ReflectionUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/util/SQLRunner.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/util/StringUtil.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/util/StringUtils.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/util/SuperMapUtil.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/util/adapter/NullStringToEmptyAdapterFactory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/util/adapter/StringNullAdapter.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/util/serializer/ClassDeserializer.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/util/serializer/DefaultSerializer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../cc-root/cc-user/src/main/java/com/gfl/platform/user/mapper/CartMapperExt.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../cc-root/cc-user/src/main/java/com/gfl/platform/user/service/ICartService.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/../cc-root/cc-user/src/main/java/com/gfl/platform/user/service/impl/CartService.java" />
       <change beforePath="$PROJECT_DIR$/../cc-root/.idea/compiler.xml" afterPath="$PROJECT_DIR$/../cc-root/.idea/compiler.xml" />
+      <change beforePath="$PROJECT_DIR$/../cc-root/.idea/encodings.xml" afterPath="$PROJECT_DIR$/../cc-root/.idea/encodings.xml" />
+      <change beforePath="$PROJECT_DIR$/../cc-root/.idea/misc.xml" afterPath="$PROJECT_DIR$/../cc-root/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/../cc-root/.idea/modules.xml" afterPath="$PROJECT_DIR$/../cc-root/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/../cc-root/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../cc-root/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/../cc-root/cc-common/pom.xml" afterPath="$PROJECT_DIR$/../cc-root/cc-common/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/CcCommonApplication.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../cc-root/cc-common/src/test/java/com/gfl/platform/common/CcCommonApplicationTests.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/../cc-root/pom.xml" afterPath="$PROJECT_DIR$/../cc-root/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/../cc-root/out/" />
     <ignored path="$PROJECT_DIR$/../cc-root/target/" />
@@ -51,6 +17,7 @@
     <ignored path="$PROJECT_DIR$/../cc-root/cc-parent/target/" />
     <ignored path="$PROJECT_DIR$/../cc-root/cc-common/target/" />
     <ignored path="$PROJECT_DIR$/../cc-root/cc-generator/target/" />
+    <ignored path="$PROJECT_DIR$/../cc-root/cc-user/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,115 +27,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="LatitudeLontitudeUtil.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/util/LatitudeLontitudeUtil.java">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../cc-root/cc-user/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LngLatDistanceUtil.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/util/LngLatDistanceUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-288">
-              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../cc-root/cc-common/src/main/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ListSorter.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/util/ListSorter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-559">
-              <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StringUtil.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/util/StringUtil.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="25" column="12" lean-forward="false" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1521#1522#0" expanded="true" />
-                <element signature="e#1589#1590#0" expanded="true" />
-                <element signature="e#3060#3061#0" expanded="true" />
-                <element signature="e#3112#3113#0" expanded="true" />
-                <element signature="e#3592#3593#0" expanded="true" />
-                <element signature="e#3650#3651#0" expanded="true" />
-                <element signature="e#3783#3784#0" expanded="true" />
-                <element signature="e#3847#3848#0" expanded="true" />
-                <element signature="e#5088#5089#0" expanded="true" />
-                <element signature="e#5150#5151#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ReflectionUtils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/util/ReflectionUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SQLRunner.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/util/SQLRunner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RedisTemplateUtils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/util/RedisTemplateUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="20" column="13" lean-forward="false" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MonthUtils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/util/MonthUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MathUtils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/util/MathUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            <state relative-caret-position="384">
+              <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -179,6 +42,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -215,6 +79,12 @@
         <option value="$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/MyTest.java" />
         <option value="$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/util/StringUtil.java" />
         <option value="$PROJECT_DIR$/../cc-root/cc-common/src/main/java/com/gfl/platform/common/util/ListSorter.java" />
+        <option value="$PROJECT_DIR$/../cc-root/cc-user/pom.xml" />
+        <option value="$PROJECT_DIR$/../cc-root/cc-user/src/main/java/com/gfl/platform/user/configuration/CcUserApplication.java" />
+        <option value="$PROJECT_DIR$/../cc-root/cc-user/src/main/java/com/gfl/platform/user/service/ICartService.java" />
+        <option value="$PROJECT_DIR$/../cc-root/cc-user/src/main/java/com/gfl/platform/user/service/impl/CartService.java" />
+        <option value="$PROJECT_DIR$/../cc-root/cc-user/src/main/java/com/gfl/platform/user/mapper/MsCartMapperExt.java" />
+        <option value="$PROJECT_DIR$/../cc-root/cc-user/src/main/java/com/gfl/platform/user/mapper/CartMapperExt.java" />
       </list>
     </option>
   </component>
@@ -253,41 +123,6 @@
             <path>
               <item name="cc-root" type="b2602c69:ProjectViewProjectNode" />
               <item name="cc-root" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cc-root" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cc-root" type="462c0819:PsiDirectoryNode" />
-              <item name="cc-common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cc-root" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cc-root" type="462c0819:PsiDirectoryNode" />
-              <item name="cc-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cc-root" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cc-root" type="462c0819:PsiDirectoryNode" />
-              <item name="cc-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cc-root" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cc-root" type="462c0819:PsiDirectoryNode" />
-              <item name="cc-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="cc-root" type="b2602c69:ProjectViewProjectNode" />
-              <item name="cc-root" type="462c0819:PsiDirectoryNode" />
-              <item name="cc-common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="common" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -473,6 +308,12 @@
       <module name="cc-parent" />
       <envs />
     </configuration>
+    <configuration name="CcUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gfl.platform.user.CcUserApplication" />
+      <module name="cc-user" />
+      <envs />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -506,7 +347,7 @@
       <option name="PROGRAM_PARAMETERS" />
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
-    <list size="8">
+    <list size="9">
       <item index="0" class="java.lang.String" itemvalue="Spring Boot.CcEntityApplication" />
       <item index="1" class="java.lang.String" itemvalue="Spring Boot.CcParentApplication" />
       <item index="2" class="java.lang.String" itemvalue="Spring Boot.CcCommonApplication" />
@@ -515,6 +356,7 @@
       <item index="5" class="java.lang.String" itemvalue="Application.AmountUtils" />
       <item index="6" class="java.lang.String" itemvalue="Application.MyTest" />
       <item index="7" class="java.lang.String" itemvalue="Application.StringUtil" />
+      <item index="8" class="java.lang.String" itemvalue="Spring Boot.CcUserApplication" />
     </list>
     <recent_temporary>
       <list size="4">
@@ -538,12 +380,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1512954733455</updated>
-      <workItem from="1512954735052" duration="12430000" />
+      <workItem from="1512954735052" duration="13802000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12430000" />
+    <option name="totallyTimeSpent" value="13802000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -594,56 +436,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../cc-root/cc-entity/src/main/java/com/gfl/platform/entity/CoCartDetail.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-398">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../cc-root/cc-generator/src/main/java/com/gfl/platform/generator/MybatisPlusGenerator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../cc-root/cc-generator/src/main/resources/templates/controller.java.vm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../cc-root/cc-generator/src/main/resources/templates/entity.java.vm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../cc-root/cc-generator/src/main/resources/templates/mapper.java.vm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../cc-root/cc-generator/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-420">
-          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../cc-root/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="273">
@@ -869,7 +661,7 @@
         <state relative-caret-position="-2592">
           <caret line="26" column="20" lean-forward="false" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -935,17 +727,17 @@
         <state relative-caret-position="128">
           <caret line="25" column="12" lean-forward="false" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1521#1522#0" expanded="true" />
-            <element signature="e#1589#1590#0" expanded="true" />
-            <element signature="e#3060#3061#0" expanded="true" />
-            <element signature="e#3112#3113#0" expanded="true" />
-            <element signature="e#3592#3593#0" expanded="true" />
-            <element signature="e#3650#3651#0" expanded="true" />
-            <element signature="e#3783#3784#0" expanded="true" />
-            <element signature="e#3847#3848#0" expanded="true" />
-            <element signature="e#5088#5089#0" expanded="true" />
-            <element signature="e#5150#5151#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1521#1522#0" expanded="false" />
+            <element signature="e#1589#1590#0" expanded="false" />
+            <element signature="e#3060#3061#0" expanded="false" />
+            <element signature="e#3112#3113#0" expanded="false" />
+            <element signature="e#3592#3593#0" expanded="false" />
+            <element signature="e#3650#3651#0" expanded="false" />
+            <element signature="e#3783#3784#0" expanded="false" />
+            <element signature="e#3847#3848#0" expanded="false" />
+            <element signature="e#5088#5089#0" expanded="false" />
+            <element signature="e#5150#5151#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1019,8 +811,56 @@
         <state relative-caret-position="-559">
           <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cc-root/cc-user/src/test/java/com/gfl/platform/user/CcUserApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cc-root/cc-user/src/main/java/com/gfl/platform/user/mapper/CartMapperExt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="2" column="32" lean-forward="false" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cc-root/cc-user/src/main/java/com/gfl/platform/user/service/ICartService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cc-root/cc-user/src/main/java/com/gfl/platform/user/service/impl/CartService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="6" column="4" lean-forward="false" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cc-root/cc-user/src/main/java/com/gfl/platform/user/configuration/CcUserApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../cc-root/cc-user/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

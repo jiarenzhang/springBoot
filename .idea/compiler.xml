@@ -9,6 +9,7 @@
         <module name="cc-common" />
         <module name="cc-entity" />
         <module name="cc-generator" />
+        <module name="cc-user" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -17,6 +18,7 @@
       <module name="cc-generator" target="1.8" />
       <module name="cc-parent" target="1.8" />
       <module name="cc-root" target="1.5" />
+      <module name="cc-user" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

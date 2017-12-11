@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/../cc-root/cc-parent/pom.xml" />
         <option value="$PROJECT_DIR$/../cc-root/cc-common/pom.xml" />
         <option value="$PROJECT_DIR$/../cc-root/cc-generator/pom.xml" />
+        <option value="$PROJECT_DIR$/../cc-root/cc-user/pom.xml" />
       </list>
     </option>
   </component>
