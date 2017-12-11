@@ -13,5 +13,6 @@
         <module>cc-parent</module>
         <module>cc-entity</module>
         <module>cc-common</module>
+        <module>cc-generator</module>
     </modules>
 </project>

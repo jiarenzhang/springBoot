@@ -12,7 +12,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="cc-common" target="1.5" />
+      <module name="cc-common" target="1.8" />
       <module name="cc-entity" target="1.8" />
       <module name="cc-generator" target="1.8" />
       <module name="cc-parent" target="1.8" />
