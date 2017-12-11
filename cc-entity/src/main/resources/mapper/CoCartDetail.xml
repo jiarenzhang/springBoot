@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.gfl.platform.mapper.CoCartDetailMapper">
+
+	<!-- 通用查询映射结果 -->
+	<resultMap id="BaseResultMap" type="com.gfl.platform.entity.CoCartDetail">
+		<id column="co_cart_detail_id" property="coCartDetailId" />
+		<result column="co_cart_id" property="coCartId" />
+		<result column="ms_shop_id" property="msShopId" />
+		<result column="sp_item_id" property="spItemId" />
+		<result column="sp_item_attribute_code" property="spItemAttributeCode" />
+		<result column="unit" property="unit" />
+		<result column="flag" property="flag" />
+		<result column="status" property="status" />
+		<result column="types" property="types" />
+		<result column="creator" property="creator" />
+		<result column="created_at" property="createdAt" />
+		<result column="last_update_time" property="lastUpdateTime" />
+		<result column="last_updator_id" property="lastUpdatorId" />
+		<result column="last_updator_name" property="lastUpdatorName" />
+		<result column="is_delete" property="isDelete" />
+		<result column="versionid" property="versionid" />
+	</resultMap>
+
+</mapper>

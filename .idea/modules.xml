@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../cc-root/cc-common/cc-common.iml" filepath="$PROJECT_DIR$/../cc-root/cc-common/cc-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cc-root/cc-entity/cc-entity.iml" filepath="$PROJECT_DIR$/../cc-root/cc-entity/cc-entity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cc-root/cc-generator/cc-generator.iml" filepath="$PROJECT_DIR$/../cc-root/cc-generator/cc-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cc-root/cc-parent/cc-parent.iml" filepath="$PROJECT_DIR$/../cc-root/cc-parent/cc-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cc-root.iml" filepath="$PROJECT_DIR$/cc-root.iml" />
+    </modules>
+  </component>
+</project>
